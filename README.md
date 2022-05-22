@@ -28,14 +28,14 @@ const Bestcim = {
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif" width="10"> 🙎 aKsamci | 💻 Developer | 🛸 Turkey <img src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif" width="10"> 🙎 aKsamci | 💻 Developer | 🛸 Turkey <img src="" width="30"></h3>
 </div>
 
 
  
 <p align="center" >
-<a href="https://media.giphy.com/media/xUNd9K4pDRrrt6jiyk/giphy.gif"> 
-    <img  src="https://media.giphy.com/media/xUNd9K4pDRrrt6jiyk/giphy.gif"/>
+<a href="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif"> 
+    <img  src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif"/>
   </a>
 
 </p>
