@@ -1,7 +1,7 @@
 
 
 ```js
-const Bestcim = {
+const aKsamci = {
     Name: 'Taha',
     City: 'İstanbul',
     Age: 'Hayatın Sunduğu Kadar.',
