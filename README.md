@@ -12,7 +12,7 @@ const Bestcim = {
 
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://birbuketsiir.com">aKsamci</a> <img src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://birbuektsiir.com">aKsamci</a> <img src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif" width="25px"> </h1>
    
    
  
@@ -104,13 +104,6 @@ const Bestcim = {
 -->
 
 
-
-<p align="center" >
-<a href="https://media.giphy.com/media/RMNyPAzibJoVa/giphy.gif"> 
-    <img  src="https://media.giphy.com/media/RMNyPAzibJoVa/giphy.gif"/>
-  </a>
-
-</p>
 
 
 <br />
