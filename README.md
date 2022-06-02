@@ -11,8 +11,6 @@ const aKsamci = {
 ```
 
 
-<div align="center">
-   <h1>Hi there, I'm <a href="https://birbuektsiir.com">aKsamci</a> <img src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif" width="25px"> </h1>
    
    
  
