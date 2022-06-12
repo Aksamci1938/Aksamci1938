@@ -26,7 +26,7 @@ const aKsamci = {
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif" width="10"> 🙎 aKsamci | 💻 Developer | 🛸 Turkey <img src="" width="30"></h3>
+<h3><img src="[https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif](https://i.imgur.com/HeR5u4e.mp4)" width="10"> 🙎 aKsamci | 💻 Developer | 🛸 Turkey <img src="" width="30"></h3>
 </div>
 
 
