@@ -31,12 +31,6 @@ const aKsamci = {
 
 
  
-<p align="center" >
-<a href="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif"> 
-    <img  src="https://media.giphy.com/media/eiJLVTSRvJfPwlmMJ5/giphy.gif"/>
-  </a>
-
-</p>
 
 
 <br />
